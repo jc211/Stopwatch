@@ -4,7 +4,7 @@ Stopwatch
 Orignal Repo: https://github.com/mp3guy/Stopwatch
 
 
-# Changes From Orignal Repo
+# Changes From Original Repo
 1. Works on Windows
 2. Added ImGui based viewer using glfw and opengl3
 
